@@ -52,9 +52,11 @@
         </plugins>
     </build>
 
-    <scm>
-        <developerConnection>scm:git:git@github.com:HamidaSeifEddine/sfg-pet-clinic.git</developerConnection>
 
-  </scm>
+    <scm>
+        <connection>scm:git:git@github.com:HamidaSeifEddine/sfg-pet-clinic.git</connection>
+        <developerConnection>scm:git:git@github.com:HamidaSeifEddine/sfg-pet-clinic.git</developerConnection>
+        <url>https://github.com/HamidaSeifEddine/sfg-pet-clinic</url>
+    </scm>
 
 </project>
